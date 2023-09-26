@@ -8,7 +8,7 @@ When a cart reaches the front of the queue, it processes one product at a time b
 
 When the queue finishes processing a cart, it will write out a receipt file with all the products' names and prices and also the total prices in the cart. The queue manager continues the distribution until it runs out of the carts. All queue threads will join by the queue manager at the end when they finish processing all carts in the queues.
 
-![image](https://github.com/carab9/threading-market-checkout/blob/main/threading_market.jpg?raw=true)
+![image](https://github.com/carab9/threading-market-checkout/blob/main/market_checkout.jpg?raw=true)
 
 ## Requirements
 
