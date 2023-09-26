@@ -16,7 +16,7 @@ C++ and C++ libraries: iostream, fstream, vector, tuple, map, algorithm, iterato
 
 ## Technical Skills
 
-C++ thread for multi-threading, mutex, condition_variable for thread synchronization, queue, regular expressions (to parse ProductPrice.xml and Carts.csv), smart pointers, STL containers such as vector, tuple, map, and date and time utilities chrono.
+C++ thread for multi-threading, mutex, condition_variable for thread synchronization, queue, regular expressions (to parse ProductPrice.xml and Carts.csv), smart pointers, STL containers such as vector, tuple, map, STL algorithms, and date and time utilities chrono.
 
 ## Results
 
